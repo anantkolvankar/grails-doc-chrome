@@ -1,0 +1,16 @@
+{
+  "name": "Grail DOC VERSION",
+  "description": "Add support to the omnibox to go to particular Grails DOC",
+  "omnibox": {
+    "keyword": "grailsdoc"
+  },
+  "icons": {
+    "16": "icon.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "version": "1.0",
+  "minimum_chrome_version": "9",
+  "manifest_version": 2
+}
