@@ -1,8 +1,8 @@
 {
-  "name": "Grail DOC VERSION",
-  "description": "Add support to the omnibox to go to particular Grails DOC",
+  "name": "Grails Doc",
+  "description": "Easy way to access grails doc.",
   "omnibox": {
-    "keyword": "grailsdoc"
+    "keyword": "gdoc"
   },
   "icons": {
     "16": "icon.png"
